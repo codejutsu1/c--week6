@@ -1,0 +1,14 @@
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/bin/Debug/net8.0/Assignment8
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/bin/Debug/net8.0/Assignment8.deps.json
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/bin/Debug/net8.0/Assignment8.runtimeconfig.json
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/bin/Debug/net8.0/Assignment8.dll
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/bin/Debug/net8.0/Assignment8.pdb
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/Assignment8.AssemblyInfoInputs.cache
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/Assignment8.AssemblyInfo.cs
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/Assignment8.csproj.CoreCompileInputs.cache
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/Assignment8.dll
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/refint/Assignment8.dll
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/Assignment8.pdb
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/Assignment8.genruntimeconfig.cache
+/home/shiver/Documents/C#/Wellahealth/Week6-Ass/Assignment8/obj/Debug/net8.0/ref/Assignment8.dll
